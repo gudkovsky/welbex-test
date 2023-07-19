@@ -1,0 +1,11 @@
+:root {
+  ---font-family: "Inter-Bold", Helvetica;
+  ---font-size: 14px;
+  ---font-style: normal;
+  ---font-weight: 700;
+  ---letter-spacing: 0.7px;
+  ---line-height: normal;
+  --black: rgba(14, 16, 20, 1);
+  --dark-gray: rgba(101, 101, 102, 1);
+  --light-text: rgba(228, 229, 234, 1);
+}
